@@ -1,0 +1,78 @@
+.nursery-product-bg-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    position: relative; 
+}
+.nursery-product-heading{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    
+}
+
+.nursery-data-container {
+    display: flex;
+    align-items: center; 
+    position: relative; 
+}
+
+.nursery-data-display-container {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    padding: 0; 
+    margin: 0; 
+    flex-grow: 1; 
+}
+
+.left-button, .right-button {
+    cursor: pointer;
+    background-color: transparent;
+    color: transparent;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1; 
+    top: 50%;
+    transform: translateY(-50%); 
+}
+
+.left-button {
+    left: 10px; 
+}
+
+.right-button {
+    right: 10px; 
+}
+
+.nursery-image-item-list-container {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: center;
+    color: #838383;
+    margin: 20px 40px 0 0; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+
+.left-arrow-icon, .right-arrow-icon{
+    color:  rgba(64, 64, 64, 0.5);
+    font-size: 50px;
+}
+
+
+.nursery-silder-text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

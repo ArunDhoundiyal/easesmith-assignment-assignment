@@ -1,0 +1,137 @@
+
+.Header-bg-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-size: cover;
+    background-color: #ffffff;
+}
+
+.free-shipping-call-to-us-header-container{
+    background-color: #165315;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    color: #ffffff;
+    font: inter;
+}
+
+.position-header-free-shipping-call-to-us-card-container{
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.call-to-us-header-text{
+    margin-right: 40px;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.chaperone-header-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.chaperone-header-text {
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: left;
+    color: #165315;
+    margin-left: 8px;
+}
+
+.header-nav-links{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.header-link{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    color:#000000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    cursor: pointer;
+
+
+
+}
+
+.header-link-color{
+    color: #F3A939;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    
+}
+
+
+.header-link-color::after {
+    content: ''; 
+    position: absolute;
+    width: 50%; 
+    height: 2px; 
+    background-color: #F3A939; 
+    bottom: 0; 
+    left: 25%; 
+  }
+
+.my-profile-cart-header-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.my-profile-cart-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    color:#000000;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.cart-header-icon{
+    font-size: 25px;
+}
+
+

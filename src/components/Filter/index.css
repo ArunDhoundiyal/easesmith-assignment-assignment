@@ -1,0 +1,52 @@
+.filter-card-menu-container {
+  background: #F0FFE5;
+  gap: 0px;
+  opacity: 0px;    
+  margin-top: 40px;
+  height: 750px;
+  width: 20%;
+  overflow: auto;
+
+}
+
+.eachItem-nursery-container{
+  display: flex;
+  flex-direction: column;
+}
+
+
+  ul{
+    list-style-type: none;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    color: #838383;
+
+  }
+
+  li{
+    margin: 20px;
+  }
+
+  .filter-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  button{
+    border: none;
+    background-color: transparent;
+    color: #838383;
+
+  }
+  .horizontal-line{
+    width: 85%;
+    align-self:center;
+
+  }
+  
+ 

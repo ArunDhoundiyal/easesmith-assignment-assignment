@@ -1,0 +1,22 @@
+.home-bg-container{
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    overflow: auto;
+    min-height: 100vh;
+}
+
+.bg-container{
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.product-display-filter-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

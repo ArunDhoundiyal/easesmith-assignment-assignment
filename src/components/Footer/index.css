@@ -1,0 +1,287 @@
+.footer {
+    background-color: #F0FFE5;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+.footer-section-top-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.subscrible-footer-section{
+    display: flex;
+    flex-direction: column;
+    width: 258px;
+    height: 60px;
+    top: 2584px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.subscribe-heading{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;   
+    color: #000000;
+    width: 258px;
+    height: 60px;
+    top: 2584px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+    font-weight: bold;
+}
+
+.subscribe-text{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #838383;
+    width: 283px;
+    height: 45px;
+    top: 2648px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px; 
+}
+
+
+
+.subscribe-input-button-container{
+    width: 269px;
+    height: 85px;
+    top: 2718px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.email-address-input-field{
+    width: 269px;
+    height: 35px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #0000004D;
+    padding-left: 8px;
+}
+
+.email-address-input-field::placeholder{
+    width: 161px;
+    height: 20px;
+    top: 6px;
+    left: 19px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    color: #999999;
+
+}
+
+.subscribe-button{
+    width: 130px;
+    height: 35px;
+    top: 50px;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+    background: #247822;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+h1{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+}
+
+
+
+ul{
+    list-style-type: none;
+}
+
+.li{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22.5px;
+    text-align: left;
+}
+
+.get-in-touch-container{
+    width: 218px;
+    height: 237px;
+    top: 2641px;
+    left: 1063px;
+    gap: 0px;
+    opacity: 0px;
+    color: #838383;
+    margin-top: 15px;
+}
+
+
+
+.address-text{
+    font: Poppins;
+    font-weight: 400;
+    size: 15px;
+    line-height: 22.5px;
+
+}
+
+.number-txt{
+    font: Poppins;
+    font-weight: 400;
+    size: 15px;
+    line-height: 22.5px;
+    margin-top: 20px;
+}
+
+.email-text{
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19.5px;
+    text-align: left;
+    margin-top: 20px;
+
+}
+
+.footer-bottom{
+    display: flex;
+    flex-direction: column;
+}
+
+.chapter-heading{
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+    width: 258px;
+    height: 33px;
+    top: 2888px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.footer-chaperone-content{
+    color: #838383;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    height: 75px;
+    top: 2930px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+        
+}
+
+.follow-us-heading{
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+    width: 204px;
+    height: 33px;
+    top: 3021px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+        
+}
+
+.follow-us-icons-container{
+    width: 219.1px;
+    height: 31.04px;
+    top: 3064px;
+    left: 109.9px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #000000;
+
+
+}
+
+.follow-us-icons{
+    font-size: 30px;
+}
+
+
+.hr-footer-line{
+    color: #838383;
+    margin-top: 30px;
+}
+
+.copyright-container{
+    width: 384px;
+    height: 24px;
+    top: 3158px;
+    left: 108px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #0000004D;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

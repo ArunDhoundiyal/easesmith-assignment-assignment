@@ -1,0 +1,75 @@
+.thank-you-page-bg-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+
+.your-cart-text{
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25.5px;
+    text-align: center;
+    color: #0F4811;
+    width: 80px;
+    height: 26px;
+    top: 37px;
+    left: 186px;
+    gap: 0px;
+    opacity: 0px;
+    }
+
+.thank-you-hr-line{
+    width: 80%;
+}
+
+.thank-you-page-heading{
+    color: #165315;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    width: 230px;
+    height: 83px;
+    top: 146px;
+    left: 112px;
+    gap: 0px;
+    opacity: 0px;
+    }
+
+.thank-you-text{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    width: 422px;
+    height: 39px;
+    top: 411px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
+    color: #165315;
+}
+
+.shopping-button{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ffffff;
+    background: #165315;
+    width: 300px;
+    border:none;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
